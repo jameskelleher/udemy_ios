@@ -14,6 +14,7 @@
 		952F52591BEAC1FD002E41EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 952F52571BEAC1FD002E41EE /* LaunchScreen.storyboard */; };
 		952F52641BEAC1FD002E41EE /* Cat_YearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952F52631BEAC1FD002E41EE /* Cat_YearsTests.swift */; };
 		952F526F1BEAC1FD002E41EE /* Cat_YearsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952F526E1BEAC1FD002E41EE /* Cat_YearsUITests.swift */; };
+		952F527D1BEAC386002E41EE /* cat_PNG1631.png in Resources */ = {isa = PBXBuildFile; fileRef = 952F527C1BEAC386002E41EE /* cat_PNG1631.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		952F526A1BEAC1FD002E41EE /* Cat YearsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat YearsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		952F526E1BEAC1FD002E41EE /* Cat_YearsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_YearsUITests.swift; sourceTree = "<group>"; };
 		952F52701BEAC1FD002E41EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		952F527C1BEAC386002E41EE /* cat_PNG1631.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat_PNG1631.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				952F52551BEAC1FD002E41EE /* Assets.xcassets */,
 				952F52571BEAC1FD002E41EE /* LaunchScreen.storyboard */,
 				952F525A1BEAC1FD002E41EE /* Info.plist */,
+				952F527C1BEAC386002E41EE /* cat_PNG1631.png */,
 			);
 			path = "Cat Years";
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				952F52591BEAC1FD002E41EE /* LaunchScreen.storyboard in Resources */,
+				952F527D1BEAC386002E41EE /* cat_PNG1631.png in Resources */,
 				952F52561BEAC1FD002E41EE /* Assets.xcassets in Resources */,
 				952F52541BEAC1FD002E41EE /* Main.storyboard in Resources */,
 			);
